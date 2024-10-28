@@ -1,0 +1,36 @@
+        <students>
+        <student sr="1">
+            <sl.no>="23"</sl.no>
+            <name>john carter</name>
+            <admission date>
+                <month>"12"</month>
+                <date>"25"</date>
+                <year>"2015"</year>
+            </admission date>
+
+        </student>
+            
+            <student sr="2">
+                <sl.no>="29"</sl.no>
+                <name>"bob marsha"</name>
+                <admission date>
+                    <month>"01"</month>
+                    <date>"13"</date>
+                    <year>"1999"</year>
+                </admission date>
+            </student>
+                    
+                    <student sr="3">
+                <sl.no>="35"</sl.no>
+                <name>"clark kent"</name>
+                <admission date>
+                    <month>"06"</month>
+                    <date>"17"</date>
+                    <year>"2005"</year>
+                </admission date>
+            </student>
+
+                    
+
+        </students>
+            
